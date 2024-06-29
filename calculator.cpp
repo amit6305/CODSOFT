@@ -23,7 +23,7 @@ int main(){
         cout<<"Multiplication of a and b is:"<< a*b <<endl;
         break;
     case '/':
-        cout<<"" ;
+        cout<<" ";
     default:
         break;
     }
